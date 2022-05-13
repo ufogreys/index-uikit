@@ -2099,7 +2099,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/TacoFinance",
+                href: "https://t.me/indexFinance",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2143,14 +2143,14 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/TacoFinance",
+                href: "https://t.me/indexFinance",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/FinanceTaco",
+        href: "https://twitter.com/FinanceIndex",
     },
 ];
 var MENU_HEIGHT = 64;
