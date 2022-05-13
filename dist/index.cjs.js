@@ -2112,7 +2112,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/InDexFinance",
+                href: "https://t.me/InDexSaleGlobal",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2156,14 +2156,14 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/InDexFinance",
+                href: "https://t.me/InDexSaleGlobal",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/FinanceInDex",
+        href: "https://twitter.com/FinanceInDexSale",
     },
 ];
 var MENU_HEIGHT = 64;
