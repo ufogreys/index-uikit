@@ -1990,11 +1990,11 @@ var links = [
         items: [
             {
                 label: "Exchange",
-                href: "https://exchange.taco.finance",
+                href: "https://www.in-dex-swap.ml/#/swap",
             },
             {
                 label: "Liquidity",
-                href: "https://exchange.taco.finance/#/pool",
+                href: "https://www.in-dex-swap.ml/#/pool",
             },
         ],
     },
@@ -2079,15 +2079,15 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/tacofinance/",
+                href: "https://github.com/indexfinance",
             },
             {
                 label: "Docs",
-                href: "https://taco-finance.gitbook.io/taco-finance/",
+                href: "https://idsdefi.gitbook.io/in-dex-sale/the-company/about-this",
             },
             {
                 label: "Blog",
-                href: "https://taco-finance.medium.com/",
+                href: "https://indexsale.medium.com/",
             },
         ],
     },
@@ -2099,7 +2099,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/indexFinance",
+                href: "https://t.me/InDexSaleGlobal",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2143,14 +2143,14 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/indexFinance",
+                href: "https://t.me/InDexSaleGlobal",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/FinanceIndex",
+        href: "https://twitter.com/FinanceInDexSale",
     },
 ];
 var MENU_HEIGHT = 64;
