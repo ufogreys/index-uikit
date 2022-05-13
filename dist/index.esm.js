@@ -2079,7 +2079,7 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/indexfinance",
+                href: "https://github.com/ufogreys",
             },
             {
                 label: "Docs",
