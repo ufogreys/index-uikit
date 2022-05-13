@@ -1863,7 +1863,7 @@ var Logo = function (_a) {
             fontFamily: "taco",
             textTransform: "uppercase",
             fontSize: "14pt",
-        } }, "Taco Swap"));
+        } }, "In-Dex Swap"));
 };
 
 var Icon$P = function (props) {
