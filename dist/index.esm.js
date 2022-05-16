@@ -1860,10 +1860,10 @@ var Icon$O = function (props) {
 var Logo = function (_a) {
     _a.isDark; __rest(_a, ["isDark"]);
     return (React.createElement("h1", { style: {
-            fontFamily: "taco",
+            fontFamily: "arial",
             textTransform: "uppercase",
             fontSize: "14pt",
-        } }, "In-Dex Swap"));
+        } }, "LunaFarm"));
 };
 
 var Icon$P = function (props) {
