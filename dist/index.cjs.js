@@ -2112,7 +2112,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/InDexSaleGlobal",
+                href: "https://t.me/CriptoFan",
             },
             // {
             //   label: "Bahasa Indonesia",
