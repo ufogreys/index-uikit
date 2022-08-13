@@ -1876,7 +1876,7 @@ var Logo = function (_a) {
             fontFamily: "arial",
             textTransform: "uppercase",
             fontSize: "14pt",
-        } }, "LunaFarm"));
+        } }, "CriptoFan"));
 };
 
 var Icon$P = function (props) {
