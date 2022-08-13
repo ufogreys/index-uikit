@@ -2099,7 +2099,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/criptofan",
+                href: "https://t.me/criptofantoken",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2143,14 +2143,14 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/CriptoFan",
+                href: "https://t.me/criptofantoken",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/CriptoFan",
+        href: "https://twitter.com/CriptofanD",
     },
 ];
 var MENU_HEIGHT = 64;
