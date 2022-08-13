@@ -2156,14 +2156,14 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/InDexSaleGlobal",
+                href: "https://t.me/CriptoFan",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/FinanceInDexSale",
+        href: "https://twitter.com/CriptoFan",
     },
 ];
 var MENU_HEIGHT = 64;
