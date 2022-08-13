@@ -1863,7 +1863,7 @@ var Logo = function (_a) {
             fontFamily: "arial",
             textTransform: "uppercase",
             fontSize: "14pt",
-        } }, "CriptoFan"));
+        } }, "CriptoFan Dex"));
 };
 
 var Icon$P = function (props) {
