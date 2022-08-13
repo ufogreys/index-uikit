@@ -10,11 +10,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.taco.finance",
+        href: "https://criptofanamm.vercel.app/#/swap",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.taco.finance/#/pool",
+        href: "https://criptofanamm.vercel.app/#/pool",
       },
     ],
   },
@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/TacoFinance",
+        href: "https://t.me/criptofantoken",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -164,7 +164,7 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/TacoFinance",
+        href: "https://t.me/criptofantoken",
       },
       // {
       //   label: "Whale Alert",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/FinanceTaco",
+    href: "https://twitter.com/CriptofanD",
   },
 ];
 
