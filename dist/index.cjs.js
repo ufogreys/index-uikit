@@ -1874,7 +1874,7 @@ var Logo = function (_a) {
     _a.isDark; __rest(_a, ["isDark"]);
     return (React.createElement("h1", { style: {
             fontFamily: "Ostrich Sans",
-            textTransform: "uppercase",
+            textTransform: "capitalize",
             fontSize: "14pt",
         } }, "CryptoFan Dex"));
 };
