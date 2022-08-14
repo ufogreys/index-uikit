@@ -1859,11 +1859,12 @@ var Icon$O = function (props) {
 
 var Logo = function (_a) {
     _a.isDark; __rest(_a, ["isDark"]);
-    return (React.createElement("h1", { style: {
-            fontFamily: "Ostrich Sans",
-            textTransform: "uppercase",
-            fontSize: "14pt",
-        } }, "CryptoFan Dex"));
+    return (React__default['default'].createElement("h1", { style: {
+            text-shadow: 2px 2px red;
+            fontFamily: "Anniversary-Neon"
+            textTransform: "none",
+            fontSize: "20pt",
+        } }, "CryptoFAN Dex"));
 };
 
 var Icon$P = function (props) {
