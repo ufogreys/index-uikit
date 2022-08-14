@@ -1863,7 +1863,7 @@ var Logo = function (_a) {
             fontFamily: "Ostrich Sans",
             textTransform: "uppercase",
             fontSize: "14pt",
-        } }, "CryptoFan Dex"));
+        } }, ""));
 };
 
 var Icon$P = function (props) {
