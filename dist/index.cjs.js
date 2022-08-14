@@ -1876,6 +1876,7 @@ var Logo = function (_a) {
             fontFamily: "Anniversary-Neon"
             textTransform: "uppercase",
             fontSize: "14pt",
+
         } }, "CryptoFAN Dex"));
 };
 
