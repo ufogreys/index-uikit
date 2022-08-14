@@ -1858,7 +1858,7 @@ var Icon$O = function (props) {
 };
 
 var Logo = function (_a) {
-    _a.isDark; __rest(_a, ["isDark"]);
+    _a.isLight; __rest(_a, ["isLight"]);
     return (React.createElement("h1", { style: {
             fontFamily: "Ostrich Sans",
             textTransform: "uppercase",
