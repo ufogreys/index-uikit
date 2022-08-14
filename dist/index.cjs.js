@@ -2112,7 +2112,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/criptofantoken",
+                href: "https://t.me/cryptofantoken",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2156,7 +2156,7 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/criptofantoken",
+                href: "https://t.me/criptofanews",
             },
         ],
     },
