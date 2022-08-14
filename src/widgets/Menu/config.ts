@@ -99,15 +99,15 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/tacofinance/",
+        href: "https://github.com/",
       },
       {
         label: "Docs",
-        href: "https://taco-finance.gitbook.io/taco-finance/",
+        href: "https://cryptofan.finance/wp-content/uploads/2022/07/WhitePaper-1.0-CryptoFan-Token-1.pdf",
       },
       {
         label: "Blog",
-        href: "https://taco-finance.medium.com/",
+        href: "https://medium.com/",
       },
     ],
   },
