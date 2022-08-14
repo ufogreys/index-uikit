@@ -1860,8 +1860,8 @@ var Icon$O = function (props) {
 var Logo = function (_a) {
     _a.isDark; __rest(_a, ["isDark"]);
     return (React.createElement("h1", { style: {
-            fontFamily: "Arial",
-            textTransform: "uppercase",
+            fontFamily: "Ostrich Sans",
+            textTransform: "capitalize",
             fontSize: "14pt",
         } }, "CryptoFan Dex"));
 };
