@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/criptofantoken",
+        href: "https://t.me/cryptofantoken",
       },
       // {
       //   label: "Bahasa Indonesia",
