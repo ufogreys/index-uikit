@@ -1861,7 +1861,7 @@ var Logo = function (_a) {
     _a.isDark; __rest(_a, ["isDark"]);
     return (React__default['default'].createElement("h1", { style: {
             fontFamily: "Anniversary-Neon"
-            fontSize: "20pt",
+            fontSize: "14pt",
         } }, "CryptoFAN Dex"));
 };
 
