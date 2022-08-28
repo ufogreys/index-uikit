@@ -2156,14 +2156,14 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/criptofanews",
+                href: "https://t.me/indexsale",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/CriptofanD",
+        href: "https://twitter.com/indexsale",
     },
 ];
 var MENU_HEIGHT = 64;
