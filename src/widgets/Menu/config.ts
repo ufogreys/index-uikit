@@ -10,11 +10,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.cryptofan.finance/#/swap",
+        href: "https://dex.indexsale.finance/#/swap",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.cryptofan.finance/#/pool",
+        href: "https://dex.indexsale.finance/#/pool",
       },
     ],
   },
@@ -164,7 +164,7 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/criptofantoken",
+        href: "https://t.me/indexsaleglobal",
       },
       // {
       //   label: "Whale Alert",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/CriptofanD",
+    href: "https://twitter.com/indexsale",
   },
 ];
 
