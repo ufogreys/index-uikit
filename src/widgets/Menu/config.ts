@@ -164,7 +164,7 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/criptofantoken",
+        href: "https://t.me/indexsaleglobal",
       },
       // {
       //   label: "Whale Alert",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/CriptofanD",
+    href: "https://twitter.com/In_Dex_Sale",
   },
 ];
 
