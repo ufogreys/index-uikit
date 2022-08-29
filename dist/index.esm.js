@@ -2143,14 +2143,14 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/criptofanews",
+                href: "https://t.me/indexsaleglobal",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/CriptofanD",
+        href: "https://twitter.com/In_Dex_Sale",
     },
 ];
 var MENU_HEIGHT = 64;
