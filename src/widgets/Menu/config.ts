@@ -10,11 +10,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.cryptofan.finance/#/swap",
+        href: "https://dex.bullchainai.com/#/swap",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.cryptofan.finance/#/pool",
+        href: "https://dex.bullchainai.com/#/pool",
       },
     ],
   },
@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/indexsaleglobal",
+        href: "https://t.me/bullchainaitoken",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -164,7 +164,7 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/indexsaleglobal",
+        href: "https://t.me/bullchainaitoken",
       },
       // {
       //   label: "Whale Alert",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/In_Dex_Sale",
+    href: "https://twitter.com/bullchainaitoken,
   },
 ];
 
