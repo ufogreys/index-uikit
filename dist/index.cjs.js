@@ -2096,11 +2096,11 @@ var links = [
             },
             {
                 label: "Docs",
-                href: "https://idsdefi.gitbook.io/in-dex-sale/the-company/about-this",
+                href: "https://bullchain.gitbook.io/bullchaintoken",
             },
             {
                 label: "Blog",
-                href: "https://index-finance.medium.com/",
+                href: "https://bullchain.medium.com/",
             },
         ],
     },
@@ -2112,7 +2112,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/indexsaleglobal",
+                href: "https://t.me/bullchainaitoken",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2156,14 +2156,14 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/indexsaleglobal",
+                href: "https://t.me/bullchainaitoken",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/In_Dex_Sale",
+        href: "https://twitter.com/bullchainai",
     },
 ];
 var MENU_HEIGHT = 64;
