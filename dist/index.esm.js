@@ -2150,7 +2150,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/In_Dex_Sale",
+        href: "https://twitter.com/bullchainai",
     },
 ];
 var MENU_HEIGHT = 64;
