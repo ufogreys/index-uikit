@@ -2099,7 +2099,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/indexsaleglobal",
+                href: "https://t.me/bullchainaitoken",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2143,7 +2143,7 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/indexsaleglobal",
+                href: "https://t.me/bullchainaitoken",
             },
         ],
     },
